@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML IMAGE</title>
+   </head>
+<body>
+
+<h2>HTML Image</h2>
+<img src="link.jpg" alt="Loading" width="500" height="600">
+
+</body>
+</html>
+
